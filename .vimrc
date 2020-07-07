@@ -87,6 +87,9 @@ Plugin 'tpope/vim-surround'
 Plugin 'nsf/gocode', { 'rtp': 'vim', 'do': '~/.vim/plugged/gocode/vim/symlink.sh' }
 Plugin 'fatih/vim-go'
 
+" " Vim related plugins
+Plugin 'jeetsukumaran/vim-buffergator'
+
 " " vim airline themes
 let g:airline_theme='light'
 let g:airline#extensions#tabline#enabled = 1
